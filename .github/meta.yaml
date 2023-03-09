@@ -1,0 +1,14 @@
+reponame: "code.arista.io/test/ondatra/featureprofiles"
+description: |
+  Feature Profiles are groups of OpenConfig paths and tests which verify their behavior.
+  This is the Arista Networks fork which contains some changes relevant to us.
+users:
+  maintainers:
+  - ofrasier@arista.com
+  supervisor: jsham@arista.com
+  watchers:
+  - fenner@arista.com
+  - sulrich@arista.com
+  - sambhavjain@arista.com
+x-bar:
+  version: production

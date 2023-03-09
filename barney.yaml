@@ -1,0 +1,24 @@
+images:
+
+  floor:
+    units:
+      - image: barney.ci/alpine%pkg/alpine-base
+      - image: code.arista.io/util/golang/ondatra-utils%static
+
+  meta:
+    units:
+      - floor: .%floor
+        build: |
+          gen-test-meta -o $DESTDIR/tests.yaml feature
+
+  import-tests:
+    units:
+      - floor: .%floor
+        build: |
+          gen-test-meta -o tests.yaml feature
+          gen-image-spec -i tests.yaml -o $DESTDIR/gotest-images.yaml
+
+imports:
+  - from: .%import-tests
+    import:
+      - gotest-images.yaml
