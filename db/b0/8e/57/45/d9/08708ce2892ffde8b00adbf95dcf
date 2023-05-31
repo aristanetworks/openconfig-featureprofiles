@@ -1,0 +1,19 @@
+{
+  "": {
+    "commit": "dbb08e5745d908708ce2892ffde8b00adbf95dcf"
+  },
+  "barney.ci/alpine": {
+    "commit": "205102b2c8be885b11e7b73505faba7a810e26af",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/alpine"
+  },
+  "barney.ci/golang": {
+    "commit": "fb96df7372c41bbc29bc59d1299bf91833bd4123",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/golang"
+  },
+  "code.arista.io/util/golang/ondatra-utils": {
+    "commit": "f0f8a1a6bffde4704d8713687a73faa946d6984d"
+  },
+  "github.com/golang/go": {
+    "commit": "324c3ace2d2e4e30949baa23b4c9aac8a4123317"
+  }
+}
