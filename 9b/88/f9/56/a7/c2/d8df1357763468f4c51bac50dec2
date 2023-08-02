@@ -13,7 +13,7 @@
     "commit": "204487c401d5f4b4badb9152cc82d0be94870d11"
   },
   "barney.ci/barney": {
-    "commit": "1d35f065b698a949c8b7a4d265144b17f6d749d1"
+    "commit": "5b8a8f0f495b89828ba056da288b289465759545"
   },
   "barney.ci/barneyfile": {
     "commit": "9a3d5c65297d3034558c213b301fe4c5b057bb4c"
@@ -44,7 +44,7 @@
     "commit": "6feb7543e187e6a870264ca5cbd171027e18b06f"
   },
   "github.com/golang/go": {
-    "commit": "2c358ffe9762ba08c8db0196942395f97775e31b"
+    "commit": "adb775e309dea43157e931835e920ac9e7769abe"
   },
   "github.com/golang/tools": {
     "commit": "e6e3a1984de1516ddcd6b2e645e7cd8adabfd2ab"
