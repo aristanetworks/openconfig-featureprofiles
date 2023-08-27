@@ -13,7 +13,7 @@
     "commit": "204487c401d5f4b4badb9152cc82d0be94870d11"
   },
   "barney.ci/barney": {
-    "commit": "98471747b467050cbfb7d3d954798e2402e59313"
+    "commit": "b94a5f9798e02c18badaf88f65b2eddd8925946c"
   },
   "barney.ci/barneyfile": {
     "commit": "9a3d5c65297d3034558c213b301fe4c5b057bb4c"
@@ -23,7 +23,7 @@
     "url": "https://horseland-gerrit.infra.corp.arista.io/bst"
   },
   "barney.ci/byob": {
-    "commit": "81d2a75d2e349fe742534b994321c120b44c2902",
+    "commit": "69e13b5780c61b3911421d6bf595bd35bb6824fc",
     "url": "https://horseland-gerrit.infra.corp.arista.io/byob"
   },
   "barney.ci/debian": {
