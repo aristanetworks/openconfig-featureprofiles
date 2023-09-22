@@ -44,7 +44,7 @@
     "commit": "6feb7543e187e6a870264ca5cbd171027e18b06f"
   },
   "github.com/golang/go": {
-    "commit": "c19c4c566c63818dfd059b352e52c4710eecf14d"
+    "commit": "2c1e5b05fe39fc5e6c730dd60e82946b8e67c6ba"
   },
   "github.com/golang/tools": {
     "commit": "e6e3a1984de1516ddcd6b2e645e7cd8adabfd2ab"
