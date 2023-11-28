@@ -1,0 +1,52 @@
+{
+  "": {
+    "commit": "d89555c65333035c2ebc34cea10e06b76b7151aa"
+  },
+  "barney.ci/alpine": {
+    "commit": "fb1ae6f324425a5f9260d60d7cc113146bb97913",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/alpine"
+  },
+  "barney.ci/apiserver": {
+    "commit": "f619da26f0bf8e74120f5cd755adbadf7266eaca"
+  },
+  "barney.ci/b5c": {
+    "commit": "60b7f19d349a2939d51b2954dc1f23d41bfb77e5"
+  },
+  "barney.ci/barney": {
+    "commit": "43a74681dec74044bce0ae6c42776b07ff2ddb27"
+  },
+  "barney.ci/barneyfile": {
+    "commit": "c982ff290580161cf773c422eb4088e150582727"
+  },
+  "barney.ci/bst": {
+    "commit": "d9e6e6826842437b7377ee70f3c7945dc83a42b3",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/bst"
+  },
+  "barney.ci/byob": {
+    "commit": "69e13b5780c61b3911421d6bf595bd35bb6824fc",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/byob"
+  },
+  "barney.ci/debian": {
+    "commit": "5b0987ec7a205c49584ea3c5f2d268dd817a4dd4"
+  },
+  "barney.ci/docker": {
+    "commit": "d5a25438215f49111b323af35d0d858c17d882a1"
+  },
+  "barney.ci/golang": {
+    "commit": "e65a7b0113ce393b6250766401a421b1e00a1e1c",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/golang"
+  },
+  "barney.ci/scdoc": {
+    "commit": "98217b1e9dd1484ca6ae055684d2e4955b6bb7a3",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/scdoc"
+  },
+  "code.arista.io/util/golang/ondatra-utils": {
+    "commit": "6feb7543e187e6a870264ca5cbd171027e18b06f"
+  },
+  "github.com/golang/go": {
+    "commit": "ed817f1c4055a559a94afffecbb91c78e4f39942"
+  },
+  "github.com/golang/tools": {
+    "commit": "e6e3a1984de1516ddcd6b2e645e7cd8adabfd2ab"
+  }
+}
