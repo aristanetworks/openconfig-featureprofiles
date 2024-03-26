@@ -1,9 +1,19 @@
 images:
 
   floor:
+    # Build floor for importing the test barneyfiles
     units:
       - image: barney.ci/alpine%pkg/alpine-base
       - image: code.arista.io/util/golang/ondatra-utils%static
+
+  test-build-floor:
+    # Build floor for building the tests
+    units:
+      - image: barney.ci/golang%toolchain
+      # github.com/google/gopacket requires cgo and pcap
+      - image: barney.ci/alpine%pkg/gcc
+      - image: barney.ci/alpine%pkg/musl-dev
+      - image: barney.ci/alpine%pkg/libpcap-dev
 
   meta:
     units:
