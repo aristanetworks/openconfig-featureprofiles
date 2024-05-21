@@ -37,7 +37,7 @@
     "url": "https://horseland-gerrit.infra.corp.arista.io/golang"
   },
   "barney.ci/model": {
-    "commit": "19ea63f27704b59941b731ccb110b27fce63718c"
+    "commit": "7e383a149c08013a8794c641668cd9791252ff2f"
   },
   "barney.ci/scdoc": {
     "commit": "98217b1e9dd1484ca6ae055684d2e4955b6bb7a3",
