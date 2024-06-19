@@ -1,0 +1,64 @@
+{
+  "": {
+    "commit": "6d7012d658284fbf04c7167f3c858cb330628249"
+  },
+  "barney.ci/alpine": {
+    "commit": "b19857f1eec3fc3f40c151deb2074c74030f965f",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/alpine"
+  },
+  "barney.ci/apiserver": {
+    "commit": "ba8f130eee6208bccc1c6b8f7a52901a212a5a0f"
+  },
+  "barney.ci/b5c": {
+    "commit": "29b6411ca25ee77f12cb90bb5e9a2c9d44f9e15f"
+  },
+  "barney.ci/barney": {
+    "commit": "f9577d02acc9a74ac613d10addff407e0a5b3fdf"
+  },
+  "barney.ci/barneyfile": {
+    "commit": "963a03aa0fc5f96fbe785a7505c7876667015ce0"
+  },
+  "barney.ci/bst": {
+    "commit": "d9e6e6826842437b7377ee70f3c7945dc83a42b3",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/bst"
+  },
+  "barney.ci/byob": {
+    "commit": "5a0dede1a0e942da91ad8966eb6bd9ac180d722a",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/byob"
+  },
+  "barney.ci/debian": {
+    "commit": "5b0987ec7a205c49584ea3c5f2d268dd817a4dd4"
+  },
+  "barney.ci/docker": {
+    "commit": "d93be52a3c7e4fee7bdf5fcc0d812c9bbd2bea33"
+  },
+  "barney.ci/golang": {
+    "commit": "dd612eba506a1c084a80920c879586c5ca196f7a",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/golang"
+  },
+  "barney.ci/model": {
+    "commit": "4c9e43fdb692806bb229313eac91f52e923bde96"
+  },
+  "barney.ci/scdoc": {
+    "commit": "98217b1e9dd1484ca6ae055684d2e4955b6bb7a3",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/scdoc"
+  },
+  "code.arista.io/infra/barney/barnzilla": {
+    "commit": "10843ae2bc890ebef328a1d306e6108d13b4d2de"
+  },
+  "code.arista.io/util/golang/ondatra-utils": {
+    "commit": "6feb7543e187e6a870264ca5cbd171027e18b06f"
+  },
+  "github.com/aristanetworks/bst": {
+    "commit": "c1efe172be500c368b5f647a768088624bcfd3b9"
+  },
+  "github.com/golang/go": {
+    "commit": "ace5bb40d027b718b67556afcd31bf54cff050ab"
+  },
+  "github.com/golang/tools": {
+    "commit": "e6e3a1984de1516ddcd6b2e645e7cd8adabfd2ab"
+  },
+  "github.com/goreleaser/nfpm": {
+    "commit": "34276432d6614e28108b2851b298c86342c41e4c"
+  }
+}
