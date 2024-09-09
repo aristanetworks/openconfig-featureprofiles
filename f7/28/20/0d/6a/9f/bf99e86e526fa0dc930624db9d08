@@ -1,0 +1,65 @@
+{
+  "": {
+    "commit": "f728200d6a9fbf99e86e526fa0dc930624db9d08",
+    "url": "https://github.com/aristanetworks/openconfig-featureprofiles.git"
+  },
+  "barney.ci/alpine": {
+    "commit": "8725c311a245c7aadc4174cd9d851f655c657492",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/alpine"
+  },
+  "barney.ci/apiserver": {
+    "commit": "5ced9f4a8114a747a0578c910c47f9876610a682"
+  },
+  "barney.ci/b5c": {
+    "commit": "e4e276e1c78d12f9b13a68f37c5d57cdf1b6b00d"
+  },
+  "barney.ci/barney": {
+    "commit": "693963faa0c07f3549577454a3c74468abd2ecdc"
+  },
+  "barney.ci/barneyfile": {
+    "commit": "963a03aa0fc5f96fbe785a7505c7876667015ce0"
+  },
+  "barney.ci/bst": {
+    "commit": "d9e6e6826842437b7377ee70f3c7945dc83a42b3",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/bst"
+  },
+  "barney.ci/byob": {
+    "commit": "5f0259338f45e7a3adfe988712f2a470b34791fa",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/byob"
+  },
+  "barney.ci/debian": {
+    "commit": "25ecf9fa9f56a467df833fa193fd77ba889d84d1"
+  },
+  "barney.ci/docker": {
+    "commit": "dcf06383f24b7666deaf18869d2bc92455195782"
+  },
+  "barney.ci/golang": {
+    "commit": "dd612eba506a1c084a80920c879586c5ca196f7a",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/golang"
+  },
+  "barney.ci/model": {
+    "commit": "5e45f4f5d84591798dfe23a44c5e9e7d5735c580"
+  },
+  "barney.ci/scdoc": {
+    "commit": "98217b1e9dd1484ca6ae055684d2e4955b6bb7a3",
+    "url": "https://horseland-gerrit.infra.corp.arista.io/scdoc"
+  },
+  "code.arista.io/infra/barney/barnzilla": {
+    "commit": "193e33a1c5b5eb825b6d13d06b13eaaca33dc6ec"
+  },
+  "code.arista.io/util/golang/ondatra-utils": {
+    "commit": "99928d5e56393bc0325698ec66d87530667faecf"
+  },
+  "github.com/aristanetworks/bst": {
+    "commit": "2461d3da1e86781cd6abff771ce1d9c3b0ea0197"
+  },
+  "github.com/golang/go": {
+    "commit": "69234ded30614a471c35cef5d87b0e0d3c136cd9"
+  },
+  "github.com/golang/tools": {
+    "commit": "e6e3a1984de1516ddcd6b2e645e7cd8adabfd2ab"
+  },
+  "github.com/goreleaser/nfpm": {
+    "commit": "34276432d6614e28108b2851b298c86342c41e4c"
+  }
+}
