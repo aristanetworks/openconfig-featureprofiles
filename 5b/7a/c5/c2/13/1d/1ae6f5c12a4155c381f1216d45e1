@@ -24,7 +24,7 @@
     "url": "https://horseland-gerrit.infra.corp.arista.io/bst"
   },
   "barney.ci/byob": {
-    "commit": "163f86f142c21c67223158df1ae70ab6613886df",
+    "commit": "42569bcd45edf664ef3724b76384d831e436ec1a",
     "url": "https://horseland-gerrit.infra.corp.arista.io/byob"
   },
   "barney.ci/debian": {
