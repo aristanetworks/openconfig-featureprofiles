@@ -4,7 +4,7 @@
     "url": "https://github.com/aristanetworks/openconfig-featureprofiles.git"
   },
   "barney.ci/alpine": {
-    "commit": "8725c311a245c7aadc4174cd9d851f655c657492",
+    "commit": "94fcebc578aebb21fdd40e7732df0d21c9ab3a73",
     "url": "https://horseland-gerrit.infra.corp.arista.io/alpine"
   },
   "barney.ci/apiserver": {
