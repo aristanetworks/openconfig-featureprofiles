@@ -45,7 +45,7 @@
     "url": "https://horseland-gerrit.infra.corp.arista.io/scdoc"
   },
   "code.arista.io/infra/barney/barnzilla": {
-    "commit": "d2a7acd488e682505e09f611a9b61cdd3e2b02aa"
+    "commit": "c91ad378dc91272a25a9ed1c57cb3810d635ac0a"
   },
   "code.arista.io/util/golang/ondatra-utils": {
     "commit": "99928d5e56393bc0325698ec66d87530667faecf"
