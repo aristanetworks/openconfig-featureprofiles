@@ -8,7 +8,7 @@
     "url": "https://horseland-gerrit.infra.corp.arista.io/alpine"
   },
   "barney.ci/apiserver": {
-    "commit": "5ced9f4a8114a747a0578c910c47f9876610a682"
+    "commit": "f2c8fb7850c39b510ac049683c9e4c88ea5dc130"
   },
   "barney.ci/b5c": {
     "commit": "3118241a4c529754fbf494f2b61b03642fb62608"
