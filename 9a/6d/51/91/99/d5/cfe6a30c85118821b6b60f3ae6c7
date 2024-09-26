@@ -28,7 +28,7 @@
     "url": "https://horseland-gerrit.infra.corp.arista.io/byob"
   },
   "barney.ci/debian": {
-    "commit": "25ecf9fa9f56a467df833fa193fd77ba889d84d1"
+    "commit": "68a7363daf191dea88f327e7b2d99f46b037edfe"
   },
   "barney.ci/docker": {
     "commit": "dcf06383f24b7666deaf18869d2bc92455195782"
