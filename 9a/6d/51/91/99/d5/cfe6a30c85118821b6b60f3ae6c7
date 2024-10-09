@@ -1,11 +1,9 @@
 {
   "": {
-    "commit": "9a6d519199d5cfe6a30c85118821b6b60f3ae6c7",
-    "url": "https://github.com/aristanetworks/openconfig-featureprofiles.git"
+    "commit": "9a6d519199d5cfe6a30c85118821b6b60f3ae6c7"
   },
   "barney.ci/alpine": {
-    "commit": "f2fa545e3fafa3387f2d7269721d16f3f499cc3b",
-    "url": "https://horseland-gerrit.infra.corp.arista.io/alpine"
+    "commit": "f2fa545e3fafa3387f2d7269721d16f3f499cc3b"
   },
   "barney.ci/apiserver": {
     "commit": "eb061f85260ccd9e1c0d6af5492b9bf391080e36"
@@ -24,8 +22,7 @@
     "url": "https://horseland-gerrit.infra.corp.arista.io/bst"
   },
   "barney.ci/byob": {
-    "commit": "42569bcd45edf664ef3724b76384d831e436ec1a",
-    "url": "https://horseland-gerrit.infra.corp.arista.io/byob"
+    "commit": "42569bcd45edf664ef3724b76384d831e436ec1a"
   },
   "barney.ci/debian": {
     "commit": "d73a1741c9e208f50284ce9b52d33ae608d67cd2"
@@ -34,18 +31,16 @@
     "commit": "dcf06383f24b7666deaf18869d2bc92455195782"
   },
   "barney.ci/golang": {
-    "commit": "dd612eba506a1c084a80920c879586c5ca196f7a",
-    "url": "https://horseland-gerrit.infra.corp.arista.io/golang"
+    "commit": "dd612eba506a1c084a80920c879586c5ca196f7a"
   },
   "barney.ci/model": {
     "commit": "5e45f4f5d84591798dfe23a44c5e9e7d5735c580"
   },
   "barney.ci/scdoc": {
-    "commit": "98217b1e9dd1484ca6ae055684d2e4955b6bb7a3",
-    "url": "https://horseland-gerrit.infra.corp.arista.io/scdoc"
+    "commit": "98217b1e9dd1484ca6ae055684d2e4955b6bb7a3"
   },
   "code.arista.io/infra/barney/barnzilla": {
-    "commit": "764d7fd34a2259a0ebfa9ca255f570c7bc229621"
+    "commit": "835a13f314cc857c027f4eaf21733d1ff2ac486e"
   },
   "code.arista.io/util/golang/ondatra-utils": {
     "commit": "99928d5e56393bc0325698ec66d87530667faecf"
