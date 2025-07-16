@@ -6,7 +6,7 @@
     "commit": "0c8ae2605c6287893aacb61674edfc8abec3a96e"
   },
   "barney.ci/apiserver": {
-    "commit": "392995e72be54a984d950c8ab14b6c1c60af788c"
+    "commit": "7956d2bcc25e392d805f2e6489da7e8c5c701760"
   },
   "barney.ci/b5c": {
     "commit": "3848feaef03d917041ef04f4f32a7500b5c69eea"
