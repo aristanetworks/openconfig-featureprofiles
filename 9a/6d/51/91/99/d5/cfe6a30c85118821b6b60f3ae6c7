@@ -39,7 +39,7 @@
     "commit": "98217b1e9dd1484ca6ae055684d2e4955b6bb7a3"
   },
   "code.arista.io/infra/barney/barnzilla": {
-    "commit": "e71a1ab04b5c56b8ad7962270df7cfdf31203d88"
+    "commit": "a341563ed5907f6d4e98d4255c269b0013b5f5a3"
   },
   "code.arista.io/util/golang/ondatra-utils": {
     "commit": "99928d5e56393bc0325698ec66d87530667faecf"
