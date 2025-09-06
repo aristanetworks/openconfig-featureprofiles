@@ -3,7 +3,7 @@
     "commit": "9a6d519199d5cfe6a30c85118821b6b60f3ae6c7"
   },
   "barney.ci/alpine": {
-    "commit": "600e9216188ec4e53a152d6fa6a58238e66b75b0"
+    "commit": "5d74ffe9fe9ed4a2949ed375fc95b2eeae76a1c4"
   },
   "barney.ci/apiserver": {
     "commit": "8f52c6403ab3c5f087a31e6ac8e13fabd3012ae1"
